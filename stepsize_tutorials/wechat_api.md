@@ -28,6 +28,7 @@ Here's what this looks like in the [Stepsize](http://stepsize.com/) app:
 
 ![stepsize-app](http://i.imgur.com/r8Y0rsc.gif)
 ![stepsize-app](http://i.imgur.com/h558ura.gif)
+![stepsize-app]()
 
 More details on how to use the API can be found [here](http://dev.wechat.com/wechatapi/messages-moments).
 
